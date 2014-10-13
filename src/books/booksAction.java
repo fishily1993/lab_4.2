@@ -78,3 +78,4 @@ public class booksAction extends ActionSupport {
 		   return this.AuthorID;
 	   }
 }
+// change for B2
